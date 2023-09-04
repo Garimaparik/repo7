@@ -1,4 +1,4 @@
 # repo7
 
 
-# this is a nyc day
+# this is a nice day
